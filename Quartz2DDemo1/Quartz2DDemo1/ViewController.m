@@ -21,6 +21,9 @@
     CircleView *circle = [[CircleView alloc]initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 500)];
     
     [self.view addSubview:circle];
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
