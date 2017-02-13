@@ -22,9 +22,6 @@
     
     [self.view addSubview:circle];
     
-    
-    
-    
 }
 
 -(void)viewDidAppear:(BOOL)animated
