@@ -22,7 +22,7 @@
     
     [self.view addSubview:circle];
     
-    
+    NSLog(@"1234567");
     
 }
 
