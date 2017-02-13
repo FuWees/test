@@ -22,7 +22,6 @@
     
     [self.view addSubview:circle];
     
-    NSLog(@"this is a test project");
     
     
 }
